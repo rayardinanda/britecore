@@ -5,13 +5,13 @@ Instruction to run the app.
 
 This app is a made with PHP/mySql stack. 
 
-A few of the technologies that I used are
-1) Slim Frameworks for the API
-2) KnockoutJS
-3) Bootstrap CSS
-4) Datatables 
-5) MeekroDB
-6) httpful
+A few of the technologies that I used are<br>
+1) Slim Frameworks for the API<br>
+2) KnockoutJS<br>
+3) Bootstrap CSS<br>
+4) Datatables <br>
+5) MeekroDB<br>
+6) httpful<br>
 
 The way that I structure this project goes as follow
 
@@ -20,7 +20,7 @@ The way that I structure this project goes as follow
 /class
 / is there the index.php which in this case the feature requests page is listed.
 
-You need to run the query from /api/db/britecoreInitial.sql 
+You need to run the query to set up the initial database from /api/db/britecoreInitial.sql 
 
 In addition, there are a few config that you need to configure. 
 1) /api/config.php
